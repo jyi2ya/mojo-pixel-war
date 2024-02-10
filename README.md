@@ -4,6 +4,8 @@
 
 ## 现状
 
+![image](https://github.com/jyi2ya/mojo-pixel-war/assets/86813521/ed7b799b-9b60-4b1f-9b0b-e76f2a2e8508)
+
 ## 怎么玩
 
 mojo-pixel-war 提供三个 API：
